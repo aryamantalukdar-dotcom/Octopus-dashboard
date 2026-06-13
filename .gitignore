@@ -1,0 +1,9 @@
+# never commit real credentials or local caches
+*.key
+creds*
+secrets*
+.env
+.cache/
+__pycache__/
+*.pyc
+.DS_Store
